@@ -1,4 +1,4 @@
-# AlgebraLinealconPython
+# Algebra Lineal con Python
 Álgebra Lineal. Esta área, 
 dentro de la Ciencia de Datos,
 se utiliza para manipular y 
